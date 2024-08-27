@@ -1,8 +1,8 @@
-### Hello I'm Saru Arora (Data Engineering Professional)
+### Hello I'm Saru Arora (AI, Machine Learning, Data Science, Data Engineering Professional)
 
 A creative thinker, a continuous learner and a technologist.
 
-I'm Lead Data Engineer/ BI Architect with 6.5 years of vast experience in planning and executing the governance of AWS & GCP cloud adoption, IT transformations, cloud migrations, designing end to end solutions from scalable and optimized ETL Data Pipelines, distributed systems handling petabytes of data with Batch & Real-Time frequency for domains like FMCG, Healthcare, FinTech, Finance, Pharma Life Sciences, Customer Services, Retail.
+I'm Head of AI/ML Labs/ AI Architect with 10 years of vast experience in planning and executing the governance of AWS & GCP cloud adoption, IT transformations, cloud migrations, designing end to end solutions from scalable and optimized ETL Data Pipelines, distributed systems handling petabytes of data with Batch & Real-Time frequency for domains like FMCG, Healthcare, FinTech, Finance, Pharma Life Sciences, Customer Services, Retail.
 
 SKILLS: 
 Programming Languages: (SQL, Python, Pyspark, PowerShell).
