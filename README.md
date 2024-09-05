@@ -1,4 +1,4 @@
-### Hello I'm Saru Arora (AI, Machine Learning, Data Science, Data Engineering Professional)
+### Hello I'm Saru Arora (AI ML Architect, Machine Learning, Data Science, Data Engineering Professional)
 A hands-on Data Engineering and GenAI/ ML Data Science leader with 10 years of experience in Data and 7 years of Leadership experience in leading Gen AI, Data Science, ML, Data Engineering and Big Data teams, Initiatives. Track of spearheading change. Curious, continuous learner and a lifelong student.
 
 Key strengths: 
